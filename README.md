@@ -1,7 +1,6 @@
 # Canvas Challenge
 The emerging rival of Adobe Photoshop.
 
---------------------------Instruction-------------------------------
 ## 1. Get started
  - Open command prompt (Windows) or other command-line interfaces that support initiating Java.
 It depends on the system you are using for running this application.
