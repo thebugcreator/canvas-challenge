@@ -14,10 +14,10 @@ do not forget to press Enter :D
 ## 2. Functionality
 The command list is the same as ones stated in the Software Requirement Specification.
 For your convenience, I will shortlist them here:
-	- C w h: Creates a new canvas with desired width w and height h.
-	- L x1 y1 x2 y2: Draws a line from (x1;y1) to (x2;y2).
-	- R x1 y1 x2 y2: Draws a rectangle with (x1;y1) as the upper left corner and (x2;y2) as the lower right corner.
-	- B x y c: Fills the surrounding of (x;y) by colour c.
-	- Q: Quit this application.
+- C w h: Creates a new canvas with desired width w and height h.
+- L x1 y1 x2 y2: Draws a line from (x1;y1) to (x2;y2).
+- R x1 y1 x2 y2: Draws a rectangle with (x1;y1) as the upper left corner and (x2;y2) as the lower right corner.
+- B x y c: Fills the surrounding of (x;y) by colour c.
+- Q: Quits this application.
 ## 3. Testing
  - Unit test cases and their runners are located in the test module.
