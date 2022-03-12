@@ -3,9 +3,9 @@
  - Open command prompt (Windows) or other command-line interfaces that support initiating Java.
 It depends on the system you are using for running this application.
  - Choose the project directory.
- - There is a jar file named "CryptoCanvasChallenge.main.jar" in the
+ - There is a jar file named "CanvasChallenge.jar" in the
 chosen directory.
- - Ask Java to run the jar file: "java -jar CryptoCanvasChallenge.main.jar"
+ - Ask Java to run the jar file: "java -jar CanvasChallenge.jar"
 do not forget to press Enter :D
  - The application is now running, you can start typing commands to work with it.
 
